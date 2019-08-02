@@ -1,7 +1,6 @@
-[TOC]
-
 ## 简介
-bunuli12138个人主页
+bunuli12138个人主页   
+\* [bunuli12138 简历](https://github.com/bunuli12138/bunuli12138.CV)
 
 ## 仓库目录
 ### 内容目录：
