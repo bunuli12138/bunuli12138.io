@@ -1,9 +1,8 @@
-## 简介
-bunuli12138个人主页   
-\* [bunuli12138 简历](https://github.com/bunuli12138/bunuli12138.CV)
+## Self Introduction 
+\* [bunuli12138 curriculum vitae](https://github.com/bunuli12138/bunuli12138.CV)
 
-## 仓库目录
-### 内容目录：
+## Self Repositories    
+### Projects   
 >CV            
 >> [handwriting]()        
 >> [recognition_lanes]()           
@@ -22,27 +21,27 @@ bunuli12138个人主页
 >> [dynamic_website]()          
 >> [scraping]()           
 
-### 显示目录
+### Tests
 >tianchi            
-天池比赛的所有集合       
+Tianchi competitions       
 
 >july_online         
-七月在线竞赛的所有集合
+July online competitions
 
 > other_competition
-其他比赛的集合
+other competitions
 
 > python_foundation       
-py基础集合
+basic knowledge of Python3
 
 > dynamic_website          
-动态网站建造，包括MVC
+Dynamic website(excercise), MVC included
 
 > scraping   
-爬虫实现以及scrapy框架（未实现）
+simple web scraping
 
 > test_CV
-计算机视觉练习或项目集合（非比赛）
+Computer Vision excercise(competitional excluded)
 
 > test_NLP
-自然语言处理练习或项目集合（非比赛）
+Natural Language Processing excercise(competitional excluded)
