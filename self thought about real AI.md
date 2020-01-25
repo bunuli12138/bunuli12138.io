@@ -1,4 +1,5 @@
-$$\color{blue}{Catalogue}$$
+![](http://latex.codecogs.com/gif.latex?\color{blue}{Catalogue})
+
 - [二维文字编写计算机语言实现对于二维数据的深入理解](#二维文字)
 - [八卦编写神经网络实现对于网络间连接的“可解释性”](#八卦)
 - [添加质疑结构促进模型模仿人类学习过程](#质疑结构)
